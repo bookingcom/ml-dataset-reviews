@@ -12,7 +12,7 @@ The following table describes the fields in the dataset:
 | review_negative           | Negative ("disliked") section in review.                             |
 | guest_score               | Review score for the stay                                            |
 | review_helpful_votes      | How many users marked the review as helpful                          |
-| guest_type                | There are 4 types of traveller types: Solo traveller (1 adult) /<br>Couple (2 adults) /Group (>2 adults) / Family with<br>children (adults & children) |
+| guest_type                | There are 4 types of traveller types: Solo traveller (1 adult) /<br>Couple (2 adults) / Group (>2 adults) / Family with<br>children (adults & children) |
 | guest_country             | Anonymized country from which the reservation was made               |
 | room_nights               | The length of the reservation, i.e. number of nights booked          |
 | month                     | The month of the check-in date of the reservation                    |
