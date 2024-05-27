@@ -2,7 +2,7 @@
 
 This repository contains the training set of the user-generated review dataset of Booking.com reviews. The training set contains about 1.6M reviews from 40k accommodations around the world. All reviews were written by guests who stayed at the accommodation.
 
-The dataset consists of English reviews published in 2023. All reviews have passed a moderation process ensuring they are genuine and do not violate the platform guidelines. To avoid displaying reviews that do not reflect of the accommodation's overall sentiment, reviews with two points or more below the average accommodation score were excluded. In order to preserve user privacy, no personally identifiable information was included in the data. Similarly, to protect business-sensitive statistics, the dataset is limited to only tens of thousands accommodations. Finally, we selected only informative reviews that include at least 3 topics.
+The dataset consists of English reviews published in 2023. All reviews have passed a moderation process ensuring they are genuine and do not violate the platform guidelines. In order to preserve user privacy, no personally identifiable information was included in the data. Similarly, to protect business-sensitive statistics, the dataset is limited to only tens of thousands accommodations. Finally, we selected only informative reviews that include at least 3 topics based on the [Text2topic model](https://arxiv.org/pdf/2310.14817).
 
 The following table describes the fields in the dataset:
 |Column                     | Description                                                          |
