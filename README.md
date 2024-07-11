@@ -28,6 +28,8 @@ The following table describes the fields in the dataset:
 ## License
 The dataset is published under the following non-commercial [license](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
+## IMPORTANT NOTE
+If you observe any issue with git-lfs to fetch the data, the data is also available through [HuggingFace](https://huggingface.co/datasets/efainman/booking-reviews-dataset/tree/main)
 
 
 
